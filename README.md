@@ -1,3 +1,6 @@
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/232b45ef-3a0e-4a7a-ab0c-44a46f6c85dc" />
+
+
 ## Figma URL
 
 [Contentful](https://www.figma.com/file/XtVr3JRCGWyZESYxd9EhZK/Contentful?node-id=0%3A1&t=SNnU6FgNUQXktIFb-1)
