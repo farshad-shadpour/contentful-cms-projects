@@ -1,5 +1,6 @@
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/232b45ef-3a0e-4a7a-ab0c-44a46f6c85dc" />
 
+[Live Demo](https://farshad-contentful-cms.netlify.app/)
 
 ## Figma URL
 
